@@ -1,0 +1,1 @@
+You can open an issue if u have an idea for a funny message to write next on my profile
