@@ -1,1 +1,1 @@
-You can open an issue if u have an idea for a funny message to write next on my profile
+You can open an issue if u have an idea for a funny message to write on my profile in the 2nd part of 2024. Not sure if this script even works tho lol

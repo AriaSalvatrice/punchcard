@@ -5,4 +5,3 @@ This repository will spell out "im gay lol" on my profile in the coming months. 
 Linkedin available upon request.
 
 https://www.laurencegellert.com/software/github-graph-builder/
-
