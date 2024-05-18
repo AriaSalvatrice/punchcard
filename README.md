@@ -1,7 +1,9 @@
-This repository will spell out "im gay lol" on my profile in the coming months. It will finish executing on 2024-05-04. It should look like this:
+This repository simulate a tireless passion for providing my labor to capital by generating fake github activity. Linkedin available upon request.
+
+It looks like this:
 
 ![](lol.png)
 
-Linkedin available upon request.
+Season 2 is ongoing and will finish November 23.
 
 https://www.laurencegellert.com/software/github-graph-builder/
