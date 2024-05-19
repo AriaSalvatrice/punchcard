@@ -1,4 +1,4 @@
-This repository simulate a tireless passion for providing my labor to capital by generating fake github activity. Linkedin available upon request.
+This repository simulates a tireless passion for providing my labor to capital by generating fake github activity. Linkedin available upon request.
 
 It looks like this:
 
