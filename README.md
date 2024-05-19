@@ -4,6 +4,6 @@ It looks like this:
 
 ![](lol.png)
 
-Season 2 is ongoing and will finish November 23.
+Season 2 is ongoing and will finish November 23. Wow.
 
 https://www.laurencegellert.com/software/github-graph-builder/
